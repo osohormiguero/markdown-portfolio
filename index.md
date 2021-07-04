@@ -1,7 +1,4 @@
----
-layout: default
----
-{% include osohormiguero.md %}
+
 
 <br>
 
