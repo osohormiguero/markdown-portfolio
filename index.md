@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-include osohormiguero.md 
+{% include osohormiguero.md %}
 
 <br>
 
