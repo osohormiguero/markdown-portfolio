@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# @osohormiguero
+include osohormiguero.md 
 
 <br>
 
